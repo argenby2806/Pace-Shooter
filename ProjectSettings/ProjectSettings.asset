@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 8c0c8c75269609841aac7332e2b4ea14
+  productGUID: aa4e5c32ccd0de54aa5e1a49eb476c8e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Pace-Shooter
+  productName: Maybay
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -760,14 +760,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Pace-Shooter
+  metroPackageName: Maybay
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Pace-Shooter
+  metroApplicationDescription: Maybay
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -839,11 +839,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5dd62a56-cdf9-42a4-8b64-a209912611b4
+  cloudProjectId: 2c12324e-4e31-469b-bd2d-a730043155b4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Pace-Shooter 2026-02-08_12-55-24
-  organizationId: doctentoi94
+  projectName: Maybay
+  organizationId: dcskc2
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}
